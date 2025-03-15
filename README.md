@@ -1,0 +1,1 @@
+Ссылка на flipkart_fashion_products_dataset.json: https://drive.google.com/file/d/1KNIXVjUP-zPck25iNuSZu47pMJ1gafjl/view?usp=drive_link

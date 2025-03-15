@@ -1,0 +1,9 @@
+langgraph
+langchain-community
+langchain-anthropic
+langchain-mistralai
+pandas
+streamlit
+httpx
+bcrypt
+dotenv
